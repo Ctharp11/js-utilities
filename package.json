@@ -1,0 +1,19 @@
+{
+  "name": "js-utilities",
+  "version": "1.0.0",
+  "description": "Utility class for common web development concepts, built in JavaScript",
+  "main": "utility.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ctharp11/js-utilities.git"
+  },
+  "author": "Cameron Tharp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ctharp11/js-utilities/issues"
+  },
+  "homepage": "https://github.com/Ctharp11/js-utilities#readme"
+}

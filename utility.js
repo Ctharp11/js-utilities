@@ -11,12 +11,10 @@ class Utilities {
 
   static throttle = (func, delay = 300) => {
     let wait = false;
-
     return (...args) => {
       if (wait) {
         return;
       }
-
       func(...args);
       wait = true;
       setTimeout(() => {
